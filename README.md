@@ -18,7 +18,7 @@ fungsi kelas ini cuma 2 yaitu Login, dan mengambil tabel data transaksi berdasar
 ketika class ini di di buat, secara otomatis ia akan login ke mandiri melalui CURL
 	
 	use MutasiBank\Mandiri;
-	$Parser = new Mandiri('username', 'password');
+	$mb = new Mandiri('username', 'password');
 	
 ### Mengambil Mutasi Rekening
 mengambil mutasi rekening dapat menggunakan method `getMutasiRekening` dengan parameter range tanggal transaksi yang diinginkan `getMutasiRekening(dari, sampai)`. Contoh :
