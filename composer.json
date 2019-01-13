@@ -1,0 +1,19 @@
+{
+    "name": "ombapit/mutasi-bank",
+    "description": "Scrapper untuk data mutasi bank di Indonesia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Suwandi",
+            "email": "davidsuwandi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MutasiBank\\":"src/"
+        }
+    },
+	"minimum-stability": "dev",
+}
