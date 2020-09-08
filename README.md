@@ -1,3 +1,7 @@
+#deprecated
+Semenjak bank mandiri ganti web, secara otomatis class ini tidak bisa dipakai.
+Mohon maaf, nanti sy coba explore lg untuk web yang baru.
+
 # Mutasi Bank
 Class ini berfungsi untuk mengambil data mutasi rekening bank di Indonesia (Bank Mandiri)
 
